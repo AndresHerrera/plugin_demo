@@ -13,7 +13,7 @@ email=fabio.herrera@correounivalle.edu.co
 about=Este es un ejemplo de realización de un plugin para QGIS 3.x
 
 tracker=https://github.com/AndresHerrera/plugin_demo/issues
-repository=https://github.com/AndresHerrera/plugin_demo/issues
+repository=https://github.com/AndresHerrera/plugin_demo
 # End of mandatory metadata
 
 # Recommended items:
